@@ -13,6 +13,7 @@ var addToArray = function (data){
   };
 
   //push the object to the array
+  //sdf
   Weather.push(weatherObj);
 
   //empty input values
